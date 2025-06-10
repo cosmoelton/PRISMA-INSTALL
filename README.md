@@ -79,7 +79,7 @@ npx prisma migrate dev --name inicial
 
 ---
 
-### 🧬 Gerar o Prisma Client (manual, se necessário)
+### 🧬 Gerar o Prisma Client (manual, no meu caso foi necessário)
 
 ```bash
 npx prisma generate
