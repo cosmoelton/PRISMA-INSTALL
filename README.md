@@ -2,7 +2,7 @@
 Configurabdo o Prisma ORM com um banco de dados MySQL locamente em um projeto Node.js.
 # 📘 Prisma + MySQL locamente com Node.js
 
-## 📘 Descrição
+## Descrição
 
 Este passo a passo mostra como configurar o **Prisma ORM** com um banco de dados **MySQL** em um projeto **Node.js**. Ele inclui a instalação, configuração da conexão com o banco, definição de modelos, execução de migrações e uso básico do Prisma Client para consultar e inserir dados.
 
